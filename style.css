@@ -10,7 +10,7 @@
 .col-md-3,
 .col-3 {
     border-style: solid;
-    border-width: 1px;
+    border-width: 0px;
     border-color: red;
 }
 
@@ -21,9 +21,11 @@
 }
 
 .TxtCentre {
-   text-align: center; 
+    text-align: center; 
 }
 
-
+.RedBackground {
+    background-color: red;
+}
 
 /* END CSS */
