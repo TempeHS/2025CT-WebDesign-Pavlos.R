@@ -11,7 +11,7 @@
 .col-3 {
     border-style: solid;
     border-width: 0px;
-    border-color: red;
+    border-color: rgb(255, 255, 255);
 }
 
 .ImgCentre {
@@ -25,7 +25,7 @@
 }
 
 .RedBackground {
-    background-color: red;
+    background-color: rgb(255, 255, 255);
 }
 
 /* END CSS */
