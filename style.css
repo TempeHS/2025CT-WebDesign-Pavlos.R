@@ -24,11 +24,55 @@
     text-align: center; 
 }
 
-.RedBackground {
-    background-color: rgb(255, 255, 255);
+.NavbarBackground {
+    background-color: #87E0FF;
 }
 
-.TopMargin {
-    margin-top: 100px;
+.TopMarginRedirects {
+    margin-top: 15%;
+}
+
+.TopMarginCards {
+    margin-top: 5%;
+}
+
+.BottomMarginCards {
+    margin-bottom: 2%;
+}
+
+.btn-secondary {
+    --bs-btn-bg:#63D7FF;
+    --bs-btn-hover-bg:#FBFFDA;
+    --bs-btn-border-color:#ECECEC;
+    --bs-btn-hover-border-color:#D8D8D8;
+    --bs-btn-hover-color: #707070;
+}
+
+.btn-primary {
+    --bs-btn-bg:#FBFFDA;
+    --bs-btn-hover-bg:#63D7FF;
+    --bs-btn-border-color:#D8D8D8;
+    --bs-btn-hover-border-color:#ECECEC;
+    --bs-btn-color:#707070;
+    --bs-btn-hover-color:#fff;
+}
+
+.NavbarImageBorder {
+    border-image: url('images/GreekKeyImageBoardershort.png') 34% repeat !important;
+    border-bottom: 30px solid !important;
+}
+
+.NavbarStick {
+    position: fixed;
+    top: 0;
+    z-index: 1030;
+}
+
+.bg-body-tertiary {
+    background-color: #FFF4B6 !important;
+}
+
+body{
+    background-color: #FFFCE8;
 }
 /* END CSS */
