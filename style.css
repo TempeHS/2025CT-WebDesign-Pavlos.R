@@ -77,6 +77,6 @@ body{
 }
 
 .zIndexAhead {
-    z-index: 1029; /* NOT INFRONT OF NAVBAR */
+    z-index: 100; /* NOT INFRONT OF NAVBAR */
 }
 /* END CSS */
