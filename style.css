@@ -58,7 +58,7 @@
 }
 
 .NavbarImageBorder {
-    border-image: url('images/GreekKeyImageBoardershort.png') 34% repeat !important;
+    border-image: url('images/GreekKeyImageBoarderShort.png') 34% repeat !important;
     border-bottom: 30px solid !important;
 }
 
